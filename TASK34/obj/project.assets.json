@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kseniazadomskaa/Desktop/Учеба/HW5/TASK34/TASK34.csproj",
-      "projectName": "TASK34",
-      "projectPath": "/Users/kseniazadomskaa/Desktop/Учеба/HW5/TASK34/TASK34.csproj",
+      "projectUniqueName": "/Users/kseniazadomskaa/Desktop/Учеба/HW5/TASK/TASK.csproj",
+      "projectName": "TASK",
+      "projectPath": "/Users/kseniazadomskaa/Desktop/Учеба/HW5/TASK/TASK.csproj",
       "packagesPath": "/Users/kseniazadomskaa/.nuget/packages/",
-      "outputPath": "/Users/kseniazadomskaa/Desktop/Учеба/HW5/TASK34/obj/",
+      "outputPath": "/Users/kseniazadomskaa/Desktop/Учеба/HW5/TASK/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kseniazadomskaa/.nuget/NuGet/NuGet.Config"
