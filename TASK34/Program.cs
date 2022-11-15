@@ -48,3 +48,4 @@ void PrintArray(int[] array)      // Функция вывода массива 
     }
     Console.WriteLine();
 }
+
